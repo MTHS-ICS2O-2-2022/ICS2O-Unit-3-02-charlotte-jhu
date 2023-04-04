@@ -30,4 +30,5 @@ func main() {
 
 	// output
 	fmt.Println("The volume is ", volume, "mm³")
+	fmt.Println("\nDone.")
 }
